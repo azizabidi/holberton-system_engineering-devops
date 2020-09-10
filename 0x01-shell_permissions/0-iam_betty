@@ -1,2 +1,3 @@
 #!/bin/bash
 usermod -u UID betty
+$ wc -l file
